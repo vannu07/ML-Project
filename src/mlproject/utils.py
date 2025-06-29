@@ -18,8 +18,6 @@ user=os.getenv("user")
 password=os.getenv("password")
 db=os.getenv('db')
 
-
-
 def read_sql_data():
     logging.info("Reading SQL database started")
     try:
@@ -34,8 +32,6 @@ def read_sql_data():
         print(df.head())
 
         return df
-
-
 
     except Exception as ex:
         raise CustomException(ex)
