@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Youtube%20Videos/mlprojecthindi/mlprojecthindi/mlruns/0/models/m-08534f3f17cd497e8b0356dda54e06ef/artifacts
+creation_timestamp: 1751204452624
+experiment_id: '0'
+last_updated_timestamp: 1751204469466
+model_id: m-08534f3f17cd497e8b0356dda54e06ef
+model_type: null
+name: model
+source_run_id: ec3e886d70ac4a5d8a167eb560cab100
+status: 3
+status_message: null
